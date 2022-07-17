@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidPRO/NetworkingVolley/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidPRO/NetworkingVolley/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/AndroidPRO/NetworkingVolley/app/src/main/res/layout/item_rv.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
